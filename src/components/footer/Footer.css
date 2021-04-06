@@ -1,0 +1,25 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    position: sticky;
+    bottom: 0;
+    z-index: 9999;
+    background: #fff;
+    padding: 5px;
+}
+
+.footer__item__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 3.2em;
+    padding: 5px 15px 0px 15px;
+}
+
+.footer__item__text{
+    font-size: 12px;
+}
+

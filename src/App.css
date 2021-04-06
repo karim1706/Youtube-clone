@@ -1,0 +1,9 @@
+.app__page{
+    display: flex;
+}
+
+@media screen and (max-width:760px){
+    .app__page{
+        /*width:415px;*/
+    }
+}
