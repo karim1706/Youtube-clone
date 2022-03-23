@@ -1,6 +1,6 @@
-# Youtube-clone
+# <h1>Youtube-clone</h1>
 
-I've made that application that  ressembles to Youtube.
+Youtube Clone is a React App that looks like the real Youtube. 
 
 <ul>The Stacks I've used are : </ul>
   <li>React JS for the Front-End</li>
