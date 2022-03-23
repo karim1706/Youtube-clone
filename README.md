@@ -8,3 +8,9 @@ Youtube Clone is a React App that looks like the real Youtube.
   <li>Axios</li>
   <li>Material UI</li>
 
+<h3>Installation</h3>
+```sh
+cd dillinger
+npm i
+npm start
+```
