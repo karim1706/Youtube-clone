@@ -9,8 +9,9 @@ Youtube Clone is a React App that looks like the real Youtube.
   <li>Material UI</li>
 
 <h3>Installation</h3>
+
 ```sh
-cd dillinger
+cd youtube-clone
 npm i
 npm start
 ```
